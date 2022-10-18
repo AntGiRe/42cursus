@@ -6,8 +6,8 @@ I want to keep a record of all my work at 42 Malaga, so here it goes.
 
 | Circle | Project                                                                              |            Language            |                                      Score                                       |    Start Date    |  Level   |
 | :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------------: | :------: |
-|   01   | [**Libft**](https://github.com/AntGiRe/Libft)                             |               C                | [![agil-rey's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2793562)](#) | 19-sep-22 | 1.05
-|   02   | [**get_next_line**](#)                             |               C                | N/C | 18-oct-22 | 1.05
+|   00   | [**Libft**](https://github.com/AntGiRe/Libft)                             |               C                | [![agil-rey's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2793562)](#) | 19-sep-22 | 1.05
+|   01   | [**get_next_line**](#)                             |               C                | N/C | 18-oct-22 | 1.05
 
 🚧![](#) Work on progress
 
