@@ -1,10 +1,10 @@
 ## 📚 My Cursus
 [![agil-rey's 42 stats](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/stats?cursusId=21&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
 
-| Circle | Project                                                                              |            Language            |                                      Score                                       |    Start Date    |  Level   |
-| :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------------: | :------: |
-|   00   | [**Libft**](https://github.com/AntGiRe/Libft)                             |               C                | [![agil-rey's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2793562)](#) | 19-sep-22 | 1.05
-|   01   | [**get_next_line**](#)                             |               C                | N/C | 18-oct-22 | 1.05
+| Circle | Project                                                                              |            Language            |                                      Score                                       |    Start Date    |   Finish Date    | Level   |
+| :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------------: |:------------: | :------: |
+|   00   | [**Libft**](https://github.com/AntGiRe/Libft)                             |               C                | [![agil-rey's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2793562)](#) | 19-sep-22 | 18-oct-22 | 1.05
+|   01   | [**ft_printf**](#)                             |               C                | N/C | 30-oct-22 | N/C | 1.05
 
 🚧![](#) Work on progress
 
