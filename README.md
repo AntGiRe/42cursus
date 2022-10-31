@@ -4,7 +4,7 @@
 | Circle | Project                                                                              |            Language            |                                      Score                                       |    Start Date    |   Finish Date    | Level   |
 | :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------------: |:------------: | :------: |
 |   00   | [**Libft**](https://github.com/AntGiRe/Libft)                             |               C                | [![agil-rey's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2793562)](#) | 19-sep-22 | 18-oct-22 | 1.05
-|   01   | [**ft_printf**](#)                             |               C                | N/C | 30-oct-22 | N/C |  N/C
+|   01   | [**ft_printf**]([#](https://github.com/AntGiRe/ft_printf))                             |               C                | [![agil-rey's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2859584)](#) | 30-oct-22 | N/C |  N/C
 
 🚧![](#) Work on progress
 
