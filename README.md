@@ -5,6 +5,7 @@
 | :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------------: |:------------: | :------: |
 |   00   | [**Libft**](https://github.com/AntGiRe/Libft)                             |               C                | [![agil-rey's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2793562)](#) | 19-sep-22 | 18-oct-22 | 1.05
 |   01   | [**ft_printf**](https://github.com/AntGiRe/ft_printf)                             |               C                | [![agil-rey's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2859584)](#) | 30-oct-22 | N/C |  N/C
+|   02   | [**get_next_line**](https://github.com/AntGiRe/get_next_line)                             |               C                | N/C | 03-nov-22 | N/C |  N/C
 
 🚧![](#) Work on progress
 
